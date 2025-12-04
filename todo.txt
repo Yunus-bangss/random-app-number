@@ -1,0 +1,3 @@
+Afficher un champ text min et max pour le random number 
+Ajouter des meilleurs styles 
+Faire xxsx
